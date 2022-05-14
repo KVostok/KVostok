@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kane Bold<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><i>Java developer</i></h3>
+<h3 align="center"><i>Backend Java Developer</i></h3>
 
 ![](https://komarev.com/ghpvc/?username=kvostok)
 
